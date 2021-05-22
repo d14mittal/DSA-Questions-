@@ -1,0 +1,398 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch mergeSort",
+            "request": "launch",
+            "mainClass": "ApnaCollege.Sorting.mergeSort",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - selectionsort",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SelectionSort",
+            "request": "launch",
+            "mainClass": "ApnaCollege.SelectionSort",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - video85",
+            "request": "launch",
+            "mainClass": "ApnaCollege.video85",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchTree",
+            "request": "launch",
+            "mainClass": "TREE.BinarySearchTree",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - oddpattern",
+            "request": "launch",
+            "mainClass": "tcs.oddpattern",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balancedParanthesis",
+            "request": "launch",
+            "mainClass": "balancedParanthesis",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mergersort",
+            "request": "launch",
+            "mainClass": "mergersort",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - NoOfOccurences",
+            "request": "launch",
+            "mainClass": "NoOfOccurences",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - coinMaxGameTheory",
+            "request": "launch",
+            "mainClass": "coinMaxGameTheory",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - permutations",
+            "request": "launch",
+            "mainClass": "permutations",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LongestArithmetic",
+            "request": "launch",
+            "mainClass": "LongestArithmetic",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeInsertionINPUTWhileRun",
+            "request": "launch",
+            "mainClass": "TreeInsertionINPUTWhileRun",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kadaneBrutforce",
+            "request": "launch",
+            "mainClass": "kadaneBrutforce",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - recursivefibonacci",
+            "request": "launch",
+            "mainClass": "recursivefibonacci",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FloodFill",
+            "request": "launch",
+            "mainClass": "FloodFill",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Treeinsertion",
+            "request": "launch",
+            "mainClass": "Treeinsertion",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LevelOrderTree",
+            "request": "launch",
+            "mainClass": "LevelOrderTree",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - binarysearch",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "JAVA2_525b1025"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Linklist",
+            "request": "launch",
+            "mainClass": "Linklist",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - reverseIntegers",
+            "request": "launch",
+            "mainClass": "reverseIntegers",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DuplicatMissing",
+            "request": "launch",
+            "mainClass": "DuplicatMissing",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - prog1",
+            "request": "launch",
+            "mainClass": "prog1",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SetsOfEqualSum",
+            "request": "launch",
+            "mainClass": "SetsOfEqualSum",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - kadaneBrutforce",
+            "request": "launch",
+            "mainClass": "kadaneBrutforce",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LargestSumOfContiguousArray",
+            "request": "launch",
+            "mainClass": "LargestSumOfContiguousArray",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - duplicate",
+            "request": "launch",
+            "mainClass": "duplicate",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - progressionseries",
+            "request": "launch",
+            "mainClass": "progressionseries",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - anagram",
+            "request": "launch",
+            "mainClass": "anagram",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - pattren",
+            "request": "launch",
+            "mainClass": "pattren",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - balancedParanthesis",
+            "request": "launch",
+            "mainClass": "balancedParanthesis",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - leftRot",
+            "request": "launch",
+            "mainClass": "leftRot",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - countingValleys",
+            "request": "launch",
+            "mainClass": "countingValleys",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CollectionsDemo<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "CollectionsDemo",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arrayinsert<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "arrayinsert",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-binarysearch<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "binarysearch",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bubblesort<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "bubblesort",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-factorial<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-fibonacci<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "fibonacci",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-insertionsort<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "insertionsort",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-longestSubarray<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "longestSubarray",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-matrixmul<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "matrixmul",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-palindrome<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "palindrome",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-patternfind<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "patternfind",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-power<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "power",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-recursivefibonacci<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "recursivefibonacci",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reverse<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-selectionsort<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "selectionsort",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sockMerchant<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "sockMerchant",
+            "projectName": "JAVA2_b0bb38da"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-strpractice<JAVA2_b0bb38da>",
+            "request": "launch",
+            "mainClass": "strpractice",
+            "projectName": "JAVA2_b0bb38da"
+        }
+    ]
+}
