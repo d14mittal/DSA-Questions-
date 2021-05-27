@@ -1,13 +1,14 @@
-class node{
-    int data;
-    node next;
-    node(int d){
-        data=d;
-        next=null;
-    }
-}
+
 
 public class ReverseKnodes{
+    class node{
+        int data;
+        node next;
+        node(int d){
+            data=d;
+            next=null;
+        }
+    }
     node head;
 
     node reversek(node head, int k) {
@@ -18,6 +19,7 @@ public class ReverseKnodes{
         while (count < k && curr != null) {
             nextptr = curr.next;
             curr.next = prev;
+            
             prev = curr;
             curr = nextptr;
             count++;

@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearchTree",
+            "request": "launch",
+            "mainClass": "BinarySearchTree",
+            "projectName": "JAVA_c8d9a5ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch mylinkedlist",
+            "request": "launch",
+            "mainClass": "mylinkedlist",
+            "projectName": "JAVA_c8d9a5ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseKnodes",
+            "request": "launch",
+            "mainClass": "ReverseKnodes",
+            "projectName": "JAVA_c8d9a5ad"
+        },
+        {
+            "type": "java",
+            "name": "Launch BuildTreeFromPreAndIndorder",
+            "request": "launch",
+            "mainClass": "BuildTreeFromPreAndIndorder",
+            "projectName": "JAVA_c8d9a5ad"
+        },
+        {
+            "type": "java",
             "name": "Launch mergeSort",
             "request": "launch",
             "mainClass": "ApnaCollege.Sorting.mergeSort",
