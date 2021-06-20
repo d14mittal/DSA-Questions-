@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThirdMaxNumber",
+            "request": "launch",
+            "mainClass": "ThirdMaxNumber",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch BinarySearchTree",
             "request": "launch",
             "mainClass": "BinarySearchTree",

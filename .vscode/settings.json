@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "linkedlist",
-        "Tree"
+        "Tree",
+        "Arrays"
     ]
 }
