@@ -1,15 +1,27 @@
 public class LinkedListPalindrome {
     Node head;
-    class Node{
+    static class Node{
         int data;
         Node next;
-        Node (int data, Node next){
+        Node (int data){
             this.data=data;
             this.next=null;
         }
     }
-    
-    static boolean ispalindrome(Node head){
+    void add(int data){
+        Node toadd=new Node(data);
+        if(head==null){
+           head=toadd;
+           return;
+        }
+        Node temp=head;
+        while(temp.next!=null){
+            temp=temp.next;
+        }
+        temp.next=toadd;
+    }
+
+     boolean ispalindrome(Node head){
         if(head==null || head.next==null){
             return true;
         }
@@ -30,11 +42,10 @@ public class LinkedListPalindrome {
             head=head.next;
             slow=slow.next;
         }
-        return true;
-        
-       
+        return true;  
     }
-    static Node reverse(Node head){
+    
+     Node reverse(Node head){
         Node prev=null;
         Node curr=head;
         Node next=null;
@@ -46,9 +57,28 @@ public class LinkedListPalindrome {
         }
         return prev;
     }
+    void printlist(){
+        Node temp=head;
+        while(temp!=null){
+            System.out.print(temp.data+"->");
+            temp=temp.next;
+        }
+        System.out.println("NULL");
     
-    public static void main(String[] args) {
-                
     }
-    
+    public static void main(String[] args) {
+        Node head=null;
+        LinkedListPalindrome ll=new LinkedListPalindrome();
+        ll.add(10);
+        ll.add(20);
+        // ll.add(20);
+        // ll.add(10);
+        // ll.add(20);
+        // ll.add(20);
+        // ll.add(20);
+        ll.printlist();
+        System.out.println(ll.ispalindrome(head));
+            
+    }
+        
 }

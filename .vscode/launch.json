@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch LinkedListPalindrome",
+            "request": "launch",
+            "mainClass": "LinkedListPalindrome",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch ThirdMaxNumber",
             "request": "launch",
             "mainClass": "ThirdMaxNumber",

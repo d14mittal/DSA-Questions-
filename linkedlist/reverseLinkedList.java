@@ -1,5 +1,5 @@
 public class reverseLinkedList {
-    node head;
+    Node head;
     static class Node {
         int data;
         Node next;
@@ -10,8 +10,8 @@ public class reverseLinkedList {
     }
     
     void addattail(int value) {
-        node newnode = new node(value);
-        node temp = head;
+        Node newnode = new Node(value);
+        Node temp = head;
         while (temp.next != null) {
             temp = temp.next;
         }
