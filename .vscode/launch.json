@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReverseStack",
+            "request": "launch",
+            "mainClass": "ReverseStack",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch ReverseSentence",
+            "request": "launch",
+            "mainClass": "ReverseSentence",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "StackUsingLinkedList",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch StackImplementUsingArray",
+            "request": "launch",
+            "mainClass": "StackImplementUsingArray",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyStack",
+            "request": "launch",
+            "mainClass": "MyStack",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch LinkedListPalindrome",
             "request": "launch",
             "mainClass": "LinkedListPalindrome",
