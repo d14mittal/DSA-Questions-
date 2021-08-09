@@ -1,5 +1,5 @@
-import java.util.Scanner;
-import java.util.Stack;
+// import java.util.Scanner;
+// import java.util.Stack;
 
 public class StackImplementUsingArray {
     static int max = 5;
@@ -45,6 +45,7 @@ public class StackImplementUsingArray {
             }
         }
     }
+
     public static void main(String[] args) {
         push(10);
         push(20);

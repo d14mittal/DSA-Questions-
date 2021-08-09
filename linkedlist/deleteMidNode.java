@@ -31,7 +31,6 @@ public class deleteMidNode{
     }
 
     Node SlowFastPointer(Node head){
-        Node temp=head;
         if(head==null || head.next==null)
             return null;
         Node fast=head, slow=head;

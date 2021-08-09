@@ -33,7 +33,6 @@ public class reverseLinkedList {
     }
 
     Node reverseRecursive(Node head) {
-        Node temp = head;
         if (head == null || head.next == null) {
             return head;
         }

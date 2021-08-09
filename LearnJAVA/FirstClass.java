@@ -6,9 +6,7 @@ public class FirstClass {
         p1.name = "dhruv";
         p1.walk("anya");
         p1.walk(10);
-        Person p2 = new Person(21,"dhruv mittal");
-
-        
+        Person p2 = new Person(21,"dhruv mittal");        
         System.out.println(Person.count);
     }
 }

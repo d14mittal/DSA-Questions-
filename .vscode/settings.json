@@ -2,8 +2,10 @@
     "java.project.sourcePaths": [
         "linkedlist",
         "Tree",
+        "Strings",
+        "Stack",
         "Number Theory and Maths",
         "Arrays",
-        "Stack"
+        ""
     ]
 }
