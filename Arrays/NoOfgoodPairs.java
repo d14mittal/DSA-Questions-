@@ -13,7 +13,7 @@ class NoOfgoodPairs {
         for(int i=0;i<max+1;i++){
             count+=(f[i]*(f[i]-1))/2;
         }
-        return count;
-        
+        return count;        
     }
+    
 }

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch QueueUsingArrays",
+            "request": "launch",
+            "mainClass": "Queues.QueueUsingArrays",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch GfgShiftSquares",
             "request": "launch",
             "mainClass": "GfgShiftSquares",

@@ -8,7 +8,7 @@ public class StackUsingLinkedList {
             next=null;
         }
     }
-     void push(int data){
+    void push(int data){
         Node newnode=new Node(data);
         if(stackhead==null){
             stackhead=newnode;

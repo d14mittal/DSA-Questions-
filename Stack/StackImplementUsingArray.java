@@ -30,6 +30,10 @@ public class StackImplementUsingArray {
         }
     }
     static void print(){
+        if(top==-1){
+            System.out.println("Stack Empty");
+            return;
+        }
         for(int i=top;i>=0;i--){
             System.out.println(a[i]);
         }
@@ -39,6 +43,7 @@ public class StackImplementUsingArray {
     }
     static void search(int data){
         for(int i=0;i<=top;i++){
+            
             if(a[i]==data){
                 System.out.println("Data found at index "+i);
                 break;
