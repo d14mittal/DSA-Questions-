@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaxElementlessThan9",
+            "request": "launch",
+            "mainClass": "BinarySearch.MaxElementlessThan9",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch SqrtN",
+            "request": "launch",
+            "mainClass": "BinarySearch.SqrtN",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch RotatedArray",
+            "request": "launch",
+            "mainClass": "BinarySearch.RotatedArray",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch QueueUsingArrays",
             "request": "launch",
             "mainClass": "Queues.QueueUsingArrays",
