@@ -1,4 +1,4 @@
-package BinarySearch;
+// package BinarySearch;
 
 import java.util.Scanner;
 
@@ -6,16 +6,20 @@ public class MaxElementlessThan9 {
 
     static int maxlessthan9(int a[],int n){
         int ans = -1;
-        int low = 0, high=
+        int low = 0, high=a.length-1;
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (a[mid]<n) {
-                ans = mid;
-                low = mid + 1;            
+                low=mid;      
+                ans=mid;   
             } 
             else if (a[mid]>n) {
                 high=mid-1;
             } 
+            else{
+                ans=mid-1;
+                break;
+            }
         }
         return ans;
     }

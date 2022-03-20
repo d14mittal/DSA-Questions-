@@ -1,0 +1,1 @@
+{"name":"Local: Prefix","url":"a:\\MyDSALearning\\Stack\\Prefix.java","tests":[{"id":1631170222156,"input":"+*423","output":"11"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"a:\\MyDSALearning\\Stack\\Prefix.java","group":"local","local":true}

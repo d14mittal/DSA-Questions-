@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch AggressiveCows",
+            "request": "launch",
+            "mainClass": "BinarySearch.AggressiveCows",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch MaxElementlessThan9",
             "request": "launch",
             "mainClass": "BinarySearch.MaxElementlessThan9",

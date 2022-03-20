@@ -1,4 +1,6 @@
-package BinarySearch;
+import java.util.Scanner;
+
+// package BinarySearch;
 
 public class SqrtN {
     static int squareroot(int n) {
@@ -20,6 +22,8 @@ public class SqrtN {
     }
 
     public static void main(String[] args) {
-        System.out.println(squareroot(1));
+        Scanner sc=new Scanner(System.in);
+        int n=sc.nextInt();
+        System.out.println(squareroot(n));
     }
 }
