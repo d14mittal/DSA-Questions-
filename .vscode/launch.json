@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch IntersectionOfTwoArrays",
+            "request": "launch",
+            "mainClass": "IntersectionOfTwoArrays",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
+            "name": "Launch MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "MyDSALearning_4175ba0e"
+        },
+        {
+            "type": "java",
             "name": "Launch AggressiveCows",
             "request": "launch",
             "mainClass": "BinarySearch.AggressiveCows",
